@@ -4,3 +4,4 @@
 - 📚 I’m currently learning React JS and Django
 - 📫 My e-mail is kamiljach2004@gmail.com
 
+Projects coming soon!
