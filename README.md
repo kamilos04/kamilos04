@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- You can find more about me on [https://kamiljach.pl/](https://kamiljach.pl/)
+- You can find more about me on [https://www.kamiljach.pl/](https://www.kamiljach.pl/)
 
 - 📫 How to reach me **kamiljach2004@gmail.com**
 
