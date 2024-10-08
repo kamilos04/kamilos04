@@ -2,7 +2,6 @@
 <h3 align="center">A full-stack developer</h3>
 <h3 align="center">Spring Boot / React</h3>
 </br>
-<p align="center">💻 You can find more about me on https://www.kamiljach.pl/</p>
 
 
 <p align="center">✉ My email: <b>kamiljach2004@gmail.com</b></p>
