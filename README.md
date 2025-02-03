@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">A full-stack developer</h3>
-<h3 align="center">Spring Boot / React</h3>
+<h3 align="center">Back-end developer</h3>
+<h3 align="center">Java / Spring Boot</h3>
 </br>
 
 
