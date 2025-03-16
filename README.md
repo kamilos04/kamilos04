@@ -6,15 +6,20 @@
 
 <p align="center">✉ My email: <b>kamiljach2004@gmail.com</b></p>
 </br>
+
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/kamilos04/DevJobsHub"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamilos04&repo=DevJobsHub&theme=github_dark" /> -->
+<!--   </a> -->
+<!-- </div> -->
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate,js,react,redux,tailwind,mui,git,css,html,ts,python,cpp&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate,js,react,redux,tailwind,git,css,html,ts,python,cpp&perline=7&theme=dark" />
   </a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilos04&layout=compact&theme=tokyonight" alt="kamilos04" /></p> -->
-<!-- <h3 align="left">LeetCode:</h3>
-<div align="left"><img align="center" src="https://leetcard.jacoblin.cool/kamilos04?theme=unicorn" /></div> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
